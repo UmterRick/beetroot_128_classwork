@@ -63,7 +63,5 @@ print(my_list)
 
 
 some_list = {3, 5, 1, 5, 34, -3, 12, 5}
-
-print(max(some_list))
 print(mean(some_list))
 print(min(some_list))
