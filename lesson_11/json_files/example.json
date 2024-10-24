@@ -1,0 +1,21 @@
+{
+  "int_value": 31221,
+  "float_value": 213.2131843274232,
+  "str_value": "value",
+  "list_value": [
+    1,
+    1.321,
+    "list_element",
+    [
+      1,
+      2,
+      3
+    ]
+  ],
+  "object_value": {
+    "name": "Name",
+    "last_name": "Last Name",
+    "age": 100
+  }
+}
+
