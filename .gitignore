@@ -1,3 +1,4 @@
 .idea
 .venv
 sandbox.py
+.env
