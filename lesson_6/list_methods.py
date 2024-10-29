@@ -1,3 +1,5 @@
+from statistics import mean
+
 my_list = [0, 1, 3, 12, "HGello"]
 print(my_list)
 
@@ -58,3 +60,8 @@ print(my_list)
 
 
 print(my_list)
+
+
+some_list = {3, 5, 1, 5, 34, -3, 12, 5}
+print(mean(some_list))
+print(min(some_list))
